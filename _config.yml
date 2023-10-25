@@ -24,7 +24,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Apabila Anda memilih Exoamanah sebagai situs terpercaya untuk togel, slot, atau live casino dan bergabung di dalamnya, Anda akan memiliki kesempatan untuk mengikuti kompetisi bulanan. Ini merupakan apresiasi bagi para anggota baru yang bergabung. Sebelum memulai taruhan, Anda sudah dapat memperoleh keuntungan dari kompetisi ini. Selain itu, ketika bermain, Anda memiliki potensi keuntungan yang berlipat ganda.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://exoamanah.yacas.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://exoamanah.yacas.org/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: 'assets/img/favicon.png'
 logo: 'assets/img/exo-logo.png'
 twitter_username: jekyllrb
