@@ -1,0 +1,266 @@
+[
+  {
+    "_id": "0ee41dfe-806d-4a85-96d4-50d497f41c96",
+    "title": "KENTUCKY MID",
+    "price": 55300,
+    "discount": 46900,
+    "image": "assets/img/pools/kentucky-mid.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "b7b69e94-5588-4b0c-8db1-86eacaae69e1",
+    "title": "ROMA",
+    "price": 125000,
+    "discount": 123700,
+    "image": "assets/img/pools/roma.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "12b929a6-cc82-42a9-b550-99e4073f490b",
+    "title": "FLORIDA MID",
+    "price": 82950,
+    "discount": 70300,
+    "image": "assets/img/pools/florida-mid.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "d54575a0-863a-4c0d-8780-8feff79fc781",
+    "title": "TURIN",
+    "price": 19200,
+    "discount": 18700,
+    "image": "assets/img/pools/turin.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "5b4854c9-c851-4856-ad4e-1ffb811f07fb",
+    "title": "NEWYORK MID",
+    "price": 37500,
+    "discount": 37150,
+    "image": "assets/img/pools/newyork-eve.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "2b72ad0c-9e80-48d8-bda6-6f6ddcab24ed",
+    "title": "CAROLINA DAY",
+    "price": 110600,
+    "discount": 93700,
+    "image": "assets/img/pools/carolina-day.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "2f04db7b-592c-4021-b729-f17b250cfc23",
+    "title": "MADRID",
+    "price": 138250,
+    "discount": 117000,
+    "image": "assets/img/pools/madrid.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "d308dd2b-2bfc-4535-9d20-56091a4d5824",
+    "title": "OREGON 03",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/oregon-03.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "15e832af-3e7c-4d8c-9d3d-50cf982c3f23",
+    "title": "MIAMI",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/miami.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "b087348e-6a51-4204-ac10-72d0702b6cc8",
+    "title": "OREGON 06",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/oregon-06.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "8f5a6d0e-ee9f-4448-b81a-03b68f299e56",
+    "title": "CALIFORNIA",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/california.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "6c63993d-0821-4d7a-8a86-8e4a61dd36f3",
+    "title": "FLORIDA EVE",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/florida-eve.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "bc4cb4d7-1317-43e3-9148-42645543977f",
+    "title": "OREGON 09",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/oregon-09.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "a3328964-e88f-4725-a1f0-873740a9a81a",
+    "title": "NEWYORK EVE",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/newyork-eve.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "1fb4fa44-fa02-48a2-9019-2a3c1f9cf5c9",
+    "title": "KENTUCKY EVE",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/kentucky-eve.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "21834935-4943-4046-aa34-2d81cdf93972",
+    "title": "CAROLINA EVE",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/carolina-eve.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "2b496a5a-5e8b-4522-8961-a92f4bccbae8",
+    "title": "AUSTRIA",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/austria.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "63c7d0cf-1c4e-4756-b507-9f218a803502",
+    "title": "CAMBODIA",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/cambodia.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "e76ba1e5-5b69-4b8f-867d-d2f1fb2376e0",
+    "title": "BULLSEYE",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/bullseye.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "83afcaf1-dab6-4e8c-bc00-e79a74fb4814",
+    "title": "OREGON 12",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/oregon-12.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "bee5c174-83d2-4c83-a00c-e648ddc915f4",
+    "title": "SYDNEY",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/sydney.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "7c3d1748-6a31-41f1-bad7-99f6e3cc7587",
+    "title": "GUANGDONG",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/guangdong.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "9eb4d6f5-5b7a-470d-8812-6e22d421dab9",
+    "title": "CHINA",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/china.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "b1677630-54d9-4b52-9135-e2114d8df9ce",
+    "title": "PHILIPPINES",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/philippines.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "b043c92f-ae83-4fdb-8861-7b104aab1ac0",
+    "title": "JAPAN",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/japan.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "66258f63-216e-498d-9be2-f69af025e045",
+    "title": "SINGAPORE",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/singapore.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "4e379700-fbe1-438f-8034-f68f48013fe7",
+    "title": "TOTO BEIJING",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/toto-beijing.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "c7cf0653-654c-4fe2-bb05-af85546198d6",
+    "title": "CYPRUS",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/cyprus.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "354a7432-b46a-49bf-a6e9-1e8d6aca02bb",
+    "title": "TAIWAN",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/taiwan.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "0a04ff5a-80ed-48e2-a6d0-a95eff4b7155",
+    "title": "ICELAND",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/iceland.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "6d4f22fd-7bc8-40dc-bb2e-d240289d325b",
+    "title": "TOTO MACAU 4D",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/toto-macau-4d.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "1c6fdfec-b953-4de9-b973-968ee5135e3e",
+    "title": "TOTO MACAU 5D",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/toto-macau-5d.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  },
+  {
+    "_id": "5dad6da9-47d8-47da-a6fb-1e717ac32398",
+    "title": "HONGKONG",
+    "price": 1390000,
+    "discount": 1271600,
+    "image": "assets/img/pools/hongkong.webp",
+    "url": "https://cutt.ly/swWSTjLI"
+  }
+]
